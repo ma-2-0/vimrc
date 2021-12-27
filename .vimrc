@@ -11,4 +11,7 @@ set wildmenu
 set cursorline
 set showmatch 
 set hlsearch
-
+set ignorecase
+set smartcase
+set wrapscan
+set noerrorbells
